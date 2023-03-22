@@ -1,0 +1,9 @@
+8
+Portofel,piele,100,80,100
+Portofel,textil,200,113,50
+Poseta,piele,150,3,300
+Poseta,textil,50,36,150
+Ghiozdan,piele,80,20,250
+Ghiozdan,textil,300,280,420
+Geanta sport,textil,30,0,180
+Troller,textil,10,0,700
